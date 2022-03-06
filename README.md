@@ -1,31 +1,21 @@
-# ETF Analyzer
+# Module 10
 ### Instructions:
 
-Use this notebook to complete your analysis of a fintech ETF that consists of four stocks: GOST, GS, PYPL, and SQ. Each stock has its own table in the etf.db database, which the Starter_Code folder also contains.
+In this Challenge, you’ll assume the role of an advisor in one of the top five financial advisory firms in the world. Competitors are fierce, so you want to propose a novel approach to assembling investment portfolios that are based on cryptocurrencies. Instead of basing your proposal on only returns and volatility, you want to include other factors that might impact the crypto market—leading to better performance for your portfolio.
 
-Analyze the daily returns of the ETF stocks both individually and as a whole. Then deploy the visualizations to a web application by using the Voilà library.
-
-The detailed instructions are divided into the following parts:
-
-Analyze a single asset in the ETF
-
-Optimize data access with Advanced SQL queries
-
-Analyze the ETF portfolio
-
-Deploy the notebook as a web application
+When you present the idea, your manager loves it! So, you’re asked to create a prototype for submitting your crypto portfolio proposal to the company board of directors.
 
 ---
 
 ## Installation Guide
-1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_07.git`
+1. Clone this project using git with the following command: `git clone git@github.com:galcivar/module_10.git`
 2. Install Python you should follow this instructions depending on you OS: https://realpython.com/installing-python/
 
 ---
 
 ## Usage
 You can use this program by navigating to the folder of the project and run:
-`voila etf_analyzer.ipynb` in the terminal
+`voila crypto_investments.ipynb` in the terminal
 
 ---
 
